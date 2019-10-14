@@ -2,7 +2,7 @@ Analysis files for reproduction of results in ecological adaptation of Atlantic 
 
 delta_allele_frequency (directory) - Allele frequency differences between Atlantic and Baltic populations
 dAF_RH1.R   -   R script for measuring delta allele frquency and chi-square significance
-rh1pools_BGI_s14.AD -   Allele depth per population table output from GATK for scaffold containing rhodopsin
+rh1pools_BGI_s14.AD (Available upon request) -   Allele depth per population table output from GATK for scaffold containing rhodopsin
 rh1_samplelist.txt  -   Translation table between pool names and standard population designations
 rh1_poolAF_secchi_sal_abs_20190204.csv  -   Table associating ecological variable with populations
 
